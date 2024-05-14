@@ -1,12 +1,19 @@
 com.gioglobe.fcm_messaging_server.app-jetified-window-1.0.0-beta04-0 /Users/mobiledev/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
-com.gioglobe.fcm_messaging_server.app-jetified-annotation-experimental-1.1.0-1 /Users/mobiledev/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
-com.gioglobe.fcm_messaging_server.app-core-1.6.0-2 /Users/mobiledev/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
-com.gioglobe.fcm_messaging_server.app-jetified-window-java-1.0.0-beta04-3 /Users/mobiledev/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
-com.gioglobe.fcm_messaging_server.app-debug-4 /Users/mobiledev/Documents/my/Dev Life/fcm_messaging_server/android/app/src/debug/res
-com.gioglobe.fcm_messaging_server.app-main-5 /Users/mobiledev/Documents/my/Dev Life/fcm_messaging_server/android/app/src/main/res
-com.gioglobe.fcm_messaging_server.app-pngs-6 /Users/mobiledev/Documents/my/Dev Life/fcm_messaging_server/build/app/generated/res/pngs/debug
-com.gioglobe.fcm_messaging_server.app-resValues-7 /Users/mobiledev/Documents/my/Dev Life/fcm_messaging_server/build/app/generated/res/resValues/debug
-com.gioglobe.fcm_messaging_server.app-rs-8 /Users/mobiledev/Documents/my/Dev Life/fcm_messaging_server/build/app/generated/res/rs/debug
-com.gioglobe.fcm_messaging_server.app-mergeDebugResources-9 /Users/mobiledev/Documents/my/Dev Life/fcm_messaging_server/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.gioglobe.fcm_messaging_server.app-mergeDebugResources-10 /Users/mobiledev/Documents/my/Dev Life/fcm_messaging_server/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.gioglobe.fcm_messaging_server.app-merged_res-11 /Users/mobiledev/Documents/my/Dev Life/fcm_messaging_server/build/app/intermediates/merged_res/debug
+com.gioglobe.fcm_messaging_server.app-jetified-play-services-basement-18.1.0-1 /Users/mobiledev/.gradle/caches/transforms-3/58aa1384bde170d075503b845cfcf44c/transformed/jetified-play-services-basement-18.1.0/res
+com.gioglobe.fcm_messaging_server.app-jetified-annotation-experimental-1.1.0-2 /Users/mobiledev/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.gioglobe.fcm_messaging_server.app-core-1.6.0-3 /Users/mobiledev/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.gioglobe.fcm_messaging_server.app-jetified-firebase-messaging-23.3.1-4 /Users/mobiledev/.gradle/caches/transforms-3/824d9827bcbbf2ab133fdd9882894bf1/transformed/jetified-firebase-messaging-23.3.1/res
+com.gioglobe.fcm_messaging_server.app-jetified-play-services-base-18.0.1-5 /Users/mobiledev/.gradle/caches/transforms-3/aba8f806953ea3dd8f794da3aeb78a12/transformed/jetified-play-services-base-18.0.1/res
+com.gioglobe.fcm_messaging_server.app-jetified-window-java-1.0.0-beta04-6 /Users/mobiledev/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.gioglobe.fcm_messaging_server.app-jetified-firebase-common-20.4.2-7 /Users/mobiledev/.gradle/caches/transforms-3/e7d9dc77e05549f012842a2b34d6bb45/transformed/jetified-firebase-common-20.4.2/res
+com.gioglobe.fcm_messaging_server.app-localbroadcastmanager-1.1.0-8 /Users/mobiledev/.gradle/caches/transforms-3/eca346024ffb3c0c46b9a6522a73d49a/transformed/localbroadcastmanager-1.1.0/res
+com.gioglobe.fcm_messaging_server.app-debug-9 /Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/android/app/src/debug/res
+com.gioglobe.fcm_messaging_server.app-main-10 /Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/android/app/src/main/res
+com.gioglobe.fcm_messaging_server.app-pngs-11 /Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/build/app/generated/res/pngs/debug
+com.gioglobe.fcm_messaging_server.app-resValues-12 /Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/build/app/generated/res/resValues/debug
+com.gioglobe.fcm_messaging_server.app-rs-13 /Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/build/app/generated/res/rs/debug
+com.gioglobe.fcm_messaging_server.app-mergeDebugResources-14 /Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.gioglobe.fcm_messaging_server.app-mergeDebugResources-15 /Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.gioglobe.fcm_messaging_server.app-merged_res-16 /Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/build/app/intermediates/merged_res/debug
+com.gioglobe.fcm_messaging_server.app-packaged_res-17 /Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/build/firebase_core/intermediates/packaged_res/debug
+com.gioglobe.fcm_messaging_server.app-packaged_res-18 /Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/build/firebase_messaging/intermediates/packaged_res/debug

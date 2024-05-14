@@ -1,7 +1,22 @@
+import 'dart:developer';
+
+import 'package:fcm_messaging_server/integration/firebase_api.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
+  FCMInit();
+}
+
+Future<void> FCMInit() async {
+  log('Stage 01 ========= ');
+  Firebase.initializeApp().whenComplete(() {
+    log('Stage 03 ========= ');
+    FirebaseApi().initializeNotifications();
+  });
+  log('Stage 02 ========= ');
 }
 
 class MyApp extends StatelessWidget {
@@ -30,7 +45,6 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -45,7 +59,6 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'You have pushed the button this many times:',
             ),
-
           ],
         ),
       ),
@@ -53,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
       //   onPressed: _incrementCounter,
       //   tooltip: 'Increment',
       //   child: const Icon(Icons.add),
-      // ), 
+      // ),
     );
   }
 }
