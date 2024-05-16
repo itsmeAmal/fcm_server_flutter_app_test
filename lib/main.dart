@@ -4,15 +4,15 @@ import 'package:fcm_messaging_server/integration/firebase_api.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
-Future<void> main() async {
+main() {
   WidgetsFlutterBinding.ensureInitialized();
+  fcmInit();
   runApp(const MyApp());
-  FCMInit();
 }
 
-Future<void> FCMInit() async {
+Future<void> fcmInit() async {
   log('Stage 01 ========= ');
-  Firebase.initializeApp().whenComplete(() {
+   Firebase.initializeApp().whenComplete(() async{
     log('Stage 03 ========= ');
     FirebaseApi().initializeNotifications();
   });

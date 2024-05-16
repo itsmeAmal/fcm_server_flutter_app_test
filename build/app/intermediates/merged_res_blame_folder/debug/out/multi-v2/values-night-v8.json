@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.gioglobe.fcm_messaging_server.app-mergeDebugResources-14:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.gioglobe.fcm_messaging_server.app-mergeDebugResources-15:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/Users/mobiledev/Documents/my/Dev Life/fcm_server_flutter_app_test/android/app/src/main/res/values-night/styles.xml",
